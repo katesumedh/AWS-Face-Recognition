@@ -42,13 +42,6 @@ AWS_SECRET_ACCESS_KEY = your_aws_secret_access_key
 
 AWS_REGION = us-east-1
 
-## Dependencies
-
-Install the dependencies by running:
-```bash
-pip install -r requirements.txt
-```
-
 
 ## Dependencies
 
