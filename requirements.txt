@@ -1,6 +1,6 @@
-Flask==2.0.2
-Flask-WTF==1.0.0
+flask==2.0.2
+flask_wtf==1.0.0
 boto3==1.18.68
 Pillow==8.4.0
 Werkzeug==2.0.2
-WTForms==3.0.1
+wtforms==3.0.1
