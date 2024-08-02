@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## AWS Setup
 
-S3 Bucket: Create an S3 bucket with an unique name.
+S3 Bucket: Create a S3 bucket with an unique name.
 
 Rekognition Collection: Create a Rekognition collection named famouspersons.
 
